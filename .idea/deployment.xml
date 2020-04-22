@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="20896">
+    <serverData>
+      <paths name="112root">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ai_city/baseline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="20896">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/baseline2" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ftp114">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ai_city/baseline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hoo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Documents/lllab/hjq/projects/ai_city/baseline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu0331">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/baseline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ubuntu_111">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/baseline" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

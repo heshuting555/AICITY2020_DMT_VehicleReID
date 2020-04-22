@@ -1,0 +1,52 @@
+MODEL:
+  PRETRAIN_CHOICE: 'imagenet'
+  PRETRAIN_PATH: '/home/ubuntu/.cache/torch/checkpoints/resnet101_ibn_a.pth.tar'
+  METRIC_LOSS_TYPE: 'triplet'
+  IF_LABELSMOOTH: 'off'
+  IF_WITH_CENTER: 'no'
+  NAME: 'resnet101_ibn_a'
+  NO_MARGIN: True
+  DEVICE_ID: ('1')
+
+INPUT:
+  SIZE_TRAIN: [320, 320]
+  SIZE_TEST: [320, 320]
+  PROB: 0.5 # random horizontal flip
+  RE_PROB: 0.5 # random erasing
+  PADDING: 10
+
+DATASETS:
+  NAMES: ('aic_aicsim')
+  PLUS_NUM_ID: 100
+
+DATALOADER:
+  SAMPLER: 'softmax_triplet'
+  NUM_INSTANCE: 8
+  NUM_WORKERS: 8
+
+SOLVER:
+  OPTIMIZER_NAME: 'SGD'
+  MAX_EPOCHS: 80
+  BASE_LR: 0.01
+  IMS_PER_BATCH: 96
+  STEPS: [40, 70]
+  GAMMA: 0.1
+  WARMUP_FACTOR: 0.01
+  WARMUP_EPOCHS: 10
+  WARMUP_METHOD: 'linear'
+  LARGE_FC_LR: False
+  CHECKPOINT_PERIOD: 10
+  LOG_PERIOD: 50
+  EVAL_PERIOD: 10000
+
+TEST:
+  IMS_PER_BATCH: 128
+  RE_RANKING: False
+  RE_RANKING_TRACK: False
+  WEIGHT: ''
+  NECK_FEAT: 'before'
+  FEAT_NORM: 'yes'
+  FLIP_FEATS: 'on'
+OUTPUT_DIR: '/data/model/0409_2/'
+
+

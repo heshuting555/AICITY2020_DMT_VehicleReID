@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8d36578-d1ec-4cc0-ba20-dbb92f3d2379" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/baseline_aic.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/baseline_aic.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/baseline_aic_finetune.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/baseline_aic_finetune.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/baseline_aic_se.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/baseline_aic_se.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/test_identity_mining.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/test_identity_mining.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/test_train_IM.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/test_train_IM.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="02068ad3-cbfd-47ac-b86c-da3829548da8" />
+  <component name="ProjectId" id="1ZeLnH9TYPKv0TFnSLOHNSExLZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\city_challenge\AICITY\configs" />
+      <recent name="E:\city_challenge\AICITY_publish\crop_dataset_generate" />
+      <recent name="E:\city_challenge\AICITY_publish" />
+      <recent name="E:\city_challenge\AICITY_publish\datasets" />
+      <recent name="E:\city_challenge\AICITY_publish\configs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.vis_txt_result">
+    <configuration name="aic_sim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/aic_sim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="distmat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/distmat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txt_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/txt_view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vis_txt_result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="magic_base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis_txt_result.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.vis_txt_result" />
+        <item itemvalue="Python.distmat" />
+        <item itemvalue="Python.aic_sim" />
+        <item itemvalue="Python.txt_view" />
+        <item itemvalue="Python.txt_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8d36578-d1ec-4cc0-ba20-dbb92f3d2379" name="Default Changelist" comment="" />
+      <created>1585194777464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585194777464</updated>
+      <workItem from="1585194782698" duration="7200000" />
+      <workItem from="1585212210264" duration="7571000" />
+      <workItem from="1585276356531" duration="2316000" />
+      <workItem from="1585367828814" duration="3861000" />
+      <workItem from="1585464004585" duration="3195000" />
+      <workItem from="1585555597077" duration="987000" />
+      <workItem from="1585635079006" duration="1871000" />
+      <workItem from="1585642358275" duration="4174000" />
+      <workItem from="1585708823628" duration="5747000" />
+      <workItem from="1585751099232" duration="2636000" />
+      <workItem from="1585798657057" duration="8310000" />
+      <workItem from="1585922152550" duration="10294000" />
+      <workItem from="1585969017858" duration="22558000" />
+      <workItem from="1586056808449" duration="12247000" />
+      <workItem from="1586101813564" duration="700000" />
+      <workItem from="1586153537779" duration="6494000" />
+      <workItem from="1586229246466" duration="17103000" />
+      <workItem from="1586311797702" duration="14753000" />
+      <workItem from="1586400115185" duration="14503000" />
+      <workItem from="1586473732282" duration="13239000" />
+      <workItem from="1586518164248" duration="1381000" />
+      <workItem from="1586614352211" duration="2469000" />
+      <workItem from="1586691714574" duration="17222000" />
+      <workItem from="1586746526139" duration="11015000" />
+      <workItem from="1586880346753" duration="688000" />
+      <workItem from="1586921137955" duration="1320000" />
+      <workItem from="1586922789146" duration="2096000" />
+      <workItem from="1587027702625" duration="17816000" />
+      <workItem from="1587098048073" duration="14698000" />
+      <workItem from="1587181975270" duration="25496000" />
+      <workItem from="1587224755575" duration="3468000" />
+      <workItem from="1587265529500" duration="9450000" />
+      <workItem from="1587306451315" duration="2863000" />
+      <workItem from="1587352182669" duration="9336000" />
+      <workItem from="1587528687411" duration="1071000" />
+      <workItem from="1587533178235" duration="876000" />
+      <workItem from="1587534362134" duration="43000" />
+      <workItem from="1587538067853" duration="2077000" />
+      <workItem from="1587558530664" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="91" key="#Deployment" timestamp="1587360186360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="211" y="91" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1587360186360" />
+    <state x="371" y="225" key="#Deployment/0.0.2048.1112@0.0.2048.1112" timestamp="1587279258148" />
+    <state x="0" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585996792963">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="0" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585324257124" />
+    <state x="0" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585996792963" />
+    <state x="321" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587030327270">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="321" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587030327270" />
+    <state x="91" y="107" width="1262" height="896" key="DirDiffDialog" timestamp="1586318047437">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="91" y="107" width="1262" height="896" key="DirDiffDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1586318047437" />
+    <state x="642" y="89" width="438" height="802" key="FileChooserDialogImpl" timestamp="1587534402483">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="427" y="83" width="438" height="657" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587356233475" />
+    <state x="642" y="89" width="438" height="802" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1587534402483" />
+    <state width="1448" height="138" key="GridCell.Tab.0.bottom" timestamp="1587363731912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1448" height="138" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587363731912" />
+    <state width="1580" height="371" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1587209029885" />
+    <state width="1448" height="138" key="GridCell.Tab.0.center" timestamp="1587363731912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1448" height="138" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587363731912" />
+    <state width="1580" height="371" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1587209029885" />
+    <state width="1448" height="138" key="GridCell.Tab.0.left" timestamp="1587363731912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1448" height="138" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587363731912" />
+    <state width="1580" height="371" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1587209029885" />
+    <state width="1448" height="138" key="GridCell.Tab.0.right" timestamp="1587363731912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1448" height="138" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587363731912" />
+    <state width="1580" height="371" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1587209029885" />
+    <state x="212" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1586921149987">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="212" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586921149987" />
+    <state x="198" y="153" width="642" height="534" key="find.popup" timestamp="1587354093596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="198" y="153" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587354093596" />
+    <state x="264" y="206" width="856" height="721" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1587132010085" />
+    <state x="377" y="157" key="ftp.server.browser" timestamp="1587308942819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="157" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1587308942819" />
+    <state x="503" y="212" key="ftp.server.browser/0.0.2048.1112@0.0.2048.1112" timestamp="1587227300643" />
+    <state x="388" y="314" key="publish.login" timestamp="1587352642645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="314" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1587352642645" />
+    <state x="517" y="424" key="publish.login/0.0.2048.1112@0.0.2048.1112" timestamp="1587182311496" />
+    <state x="222" y="251" width="672" height="679" key="search.everywhere.popup" timestamp="1586401857917">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="222" y="251" width="672" height="679" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1586401857917" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ubuntu3$txt_test.coverage" NAME="txt_test Coverage Results" MODIFIED="1586497842944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AICITY_publish$distmat.coverage" NAME="distmat Coverage Results" MODIFIED="1587209029879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ubuntu3$txt_view.coverage" NAME="txt_view Coverage Results" MODIFIED="1586762418289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AICITY_publish$aic_sim.coverage" NAME="aic_sim Coverage Results" MODIFIED="1587200821333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/AICITY$vis_txt_result.coverage" NAME="vis_txt_result Coverage Results" MODIFIED="1587359508552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ubuntu3$visualization.coverage" NAME="visualization Coverage Results" MODIFIED="1586058308209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

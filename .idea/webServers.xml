@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f00b27d5-1f47-4846-bf77-2427527066c8" name="ubuntu0331" url="http://193.112.86.70">
+        <fileTransfer host="193.112.86.70" port="22" rootFolder="/home/ubuntu" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ad7ceb6f-7f49-4b6c-815c-b813101c10a5" name="ubuntu_111" url="http://111.229.231.79">
+        <fileTransfer host="111.229.231.79" port="22" rootFolder="/home/ubuntu" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1f1b547b-db03-49d0-9957-61c41e75c4cd" name="112root" url="http://10.10.2.112">
+        <fileTransfer host="10.10.2.112" port="21422" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21422" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="16e15988-1f23-40cb-a8ae-dd537251de5f" name="20896" url="http://10.10.2.112">
+        <fileTransfer host="10.10.2.112" port="20896" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="20896" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d3c9578b-4cc6-4d28-8a4b-8eeeadcb9c86" name="ftp114" url="http://10.10.2.114">
+        <fileTransfer host="10.10.2.114" port="26740" rootFolder="/root" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="26740" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="780e272c-c12f-4ddb-b6e4-0b3e6500c940" name="hoo" url="http://10.49.222.210">
+        <fileTransfer host="10.49.222.210" port="22" rootFolder="/home/hoo" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
