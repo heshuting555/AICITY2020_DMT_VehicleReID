@@ -1,6 +1,6 @@
 # Multi-Domain Learning and Identity Mining for Vehicle Re-Identification
 
-This repository contains our source code of Track2 in the NVIDIA AI City Challenge at CVPR 2020 Workshop. PDF
+This repository contains our source code of Track2 in the NVIDIA AI City Challenge at CVPR 2020 Workshop. [Our paper](http://arxiv.org/abs/2004.10547)
 
 ## Authors
 
@@ -90,7 +90,7 @@ The code is modified from [reid_strong baseline]( https://github.com/michuanhaoh
 6. If  you want to use our baseline on public datasets (such as [VeRi](https://github.com/JDAI-CV/VeRidataset) datasets). 
 
    ```bash
-   python train.py --config_file='configs/baseline_veri.yml' MODEL.DEVICE_ID "('your device id')" OUTPUT_DIR "('your path to save checkpoints and logs')"
+   python train.py --config_file='configs/baseline_veri_r50.yml' MODEL.DEVICE_ID "('your device id')" OUTPUT_DIR "('your path to save checkpoints and logs')"
    ```
 
    
@@ -112,7 +112,7 @@ The code is modified from [reid_strong baseline]( https://github.com/michuanhaoh
 
 ### Citation
 
-If you find our work useful in your research, please consider citing:
+If you find [our work](http://arxiv.org/abs/2004.10547) useful in your research, please consider citing:
 ```
 @inproceedings{he2020multi,
  title={Multi-Domain Learning and Identity Mining for Vehicle Re-Identification},
