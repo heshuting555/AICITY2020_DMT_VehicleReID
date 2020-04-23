@@ -49,7 +49,7 @@ The code is modified from [reid_strong baseline]( https://github.com/michuanhaoh
    bash run.sh
    ```
 
-   **Note:** you can download our trained model and Distance matrix in the AICITY2020 [here](https://drive.google.com/open?id=1qmN2AUwQG37wXCwZYzqXP5G9pNXUye48)
+   **Note:** you can download our trained model and Distance matrix in the AICITY2020 [here](https://drive.google.com/file/d/1qmN2AUwQG37wXCwZYzqXP5G9pNXUye48/view?usp=sharing)
 
 4. If  you want to use our Multi-Domain Learning. 
 
@@ -106,9 +106,9 @@ The code is modified from [reid_strong baseline]( https://github.com/michuanhaoh
 
 | Backbone (baseline)        | [VeRi](https://github.com/JDAI-CV/VeRidataset) | download                                                     |
 | -------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
-| ResNet50 (batch 48)        | 79.8/95.0                                      | [model](https://drive.google.com/open?id=1q5d3MG5iu_Sm0DXgBm2mBAtlfedo-ZiF) \| [log](https://drive.google.com/open?id=1iRkyRYUyhtv35ICpxZSK6fo6PrnQbXx1) |
-| Resnet50_ibn_a (batch 48)  | 81.4/96.5                                      | [model](https://drive.google.com/open?id=14TTv8mEECkRLgtmmTMY9BPc70rhgmXcu) \| [log](https://drive.google.com/open?id=1VijL5BxYGbTKPzXGZypfmD0yTaeR3ERe) |
-| Resnet101_ibn_a (batch 48) | 82.8/97.1                                      | [model](https://drive.google.com/open?id=1vr5KUdyRXPXLRtag6foDWY_WvKZ8VESr) \| [log](https://drive.google.com/open?id=1dI4GOVDvLNIqaX_MaS3hntU4yYJCWJZD) |
+| ResNet50 (batch 48)        | 79.8/95.0                                      | [model](https://drive.google.com/file/d/1q5d3MG5iu_Sm0DXgBm2mBAtlfedo-ZiF/view?usp=sharing) \| [log](https://drive.google.com/file/d/1iRkyRYUyhtv35ICpxZSK6fo6PrnQbXx1/view?usp=sharing) |
+| Resnet50_ibn_a (batch 48)  | 81.4/96.5                                      | [model](https://drive.google.com/file/d/14TTv8mEECkRLgtmmTMY9BPc70rhgmXcu/view?usp=sharing) \| [log](https://drive.google.com/file/d/1VijL5BxYGbTKPzXGZypfmD0yTaeR3ERe/view?usp=sharing) |
+| Resnet101_ibn_a (batch 48) | 82.8/97.1                                      | [model](https://drive.google.com/file/d/1vr5KUdyRXPXLRtag6foDWY_WvKZ8VESr/view?usp=sharing) \| [log](https://drive.google.com/file/d/1dI4GOVDvLNIqaX_MaS3hntU4yYJCWJZD/view?usp=sharing) |
 
 ### Citation
 
