@@ -41,6 +41,8 @@ The code is modified from [reid_strong baseline]( https://github.com/michuanhaoh
    <?xml version="1.0" encoding="utf-8"?>
    ```
 
+5.  [ResNet-ibn](https://github.com/XingangPan/IBN-Net) is applied as the backbone. Download ImageNet pretrained model  [here](https://drive.google.com/drive/folders/1thS2B8UOSBi_cJX6zRy6YYRwz_nVFI_S) 
+
 ## RUN
 
 1. If you want to get the same score as online in the AI City Challenge 2020 Track2. Use the following commands:
